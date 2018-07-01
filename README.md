@@ -85,7 +85,7 @@ int main(int argc, char *argv[])
 
 
 
-![img](file:///C:/Users/MR51D6~1.BEA/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) 
+![img](https://github.com/godspeedcurry/BilliardsGame/blob/master/img/1.png) 
 
 **（2）直接运行：**直接打开\src\Project4\x64\Debug\Project4.exe
 
